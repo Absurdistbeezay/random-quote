@@ -1,0 +1,22 @@
+.quote-container{
+    background: rgb(83, 133, 49);
+    color: #FFF;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    letter-spacing: 0.8px;
+    padding: 10px;
+    border: #fff solid 2px;
+    border-radius: 10px;
+}
+.author{
+    color: rgb(251, 106, 106);
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 0.8px;
+}
+.buttons{
+    font-family: 'Lobster', cursive;
+}
+.btn1{
+    margin-right: 20px;
+}
