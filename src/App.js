@@ -11,7 +11,7 @@ class App extends Component{
       <div className="container text-center">
       <h1>Random Quote Generator</h1>
       <QuoteContainer/>
-      <Footer/>
+      <Footer className="footer"/>
     </div>
   );
 }
